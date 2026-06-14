@@ -54,6 +54,8 @@ getgenv().FRUITS = {
     "Poision Apple",
     "Moon Bloom",
     "Dragon's Breath",
+    "Poison Ivy",
+    "Ghost Pepper",
     "Rainbow"
 }
 
@@ -77,7 +79,7 @@ getgenv().CRATES = {
 
 
 task.spawn(function()
-   loadstring(game:HttpGet("https://pastefy.app/O5ycdURO/raw"))()
+   loadstring(game:HttpGet("https://pastefy.app/xTAM3PgD/raw"))()
 end)
 task.spawn(function()
    loadstring(game:HttpGet("https://pastefy.app/EX1du2IS/raw"))()
