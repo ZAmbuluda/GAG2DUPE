@@ -31,7 +31,6 @@ getgenv().TARGET_GEAR = {
     "Shrink Mushroom",
     "Supersize Mushroom",
     "Gnome",
-    "Flashbang",
     "Basic Pot",
     "Legendary Sprinkler",
     "Invisibility Mushroom",
@@ -78,7 +77,7 @@ getgenv().CRATES = {
 
 
 task.spawn(function()
-   loadstring(game:HttpGet("https://pastefy.app/MMENG7dr/raw"))()
+   loadstring(game:HttpGet("https://pastefy.app/O5ycdURO/raw"))()
 end)
 task.spawn(function()
    loadstring(game:HttpGet("https://pastefy.app/EX1du2IS/raw"))()
